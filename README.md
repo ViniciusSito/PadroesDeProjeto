@@ -2,7 +2,7 @@
 Avaliação prática 1° bimestre
 
 
-Pacotes:****
+## Pastas:
 - `q1` – Cálculo de tarifas (Herança e Polimorfismo)
 - `q2` – Processadores de pagamento (Factory Method)
 - `q3` – Notificações por tópicos (Observer)
