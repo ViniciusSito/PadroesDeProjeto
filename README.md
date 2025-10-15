@@ -2,7 +2,7 @@
 Avaliação prática 1° bimestre
 
 
-Pacotes:****
+Pacotes:
 - `q1` – Cálculo de tarifas (Herança e Polimorfismo)
 - `q2` – Processadores de pagamento (Factory Method)
 - `q3` – Notificações por tópicos (Observer)
@@ -17,4 +17,4 @@ Pacotes:****
 - Questão 3 — Observer: leitores (observers) se inscrevem em tópicos (subjects). A publicação notifica automaticamente inscritos sem acoplamento forte e sem controle manual de listas pelo cliente.
 - Questão 4 — Decorator: adiciona funcionalidades opcionais (estatísticas, gráficos, exportação) ao relatório básico via composição e não herança rígida, permitindo extensão progressiva.
 - Questão 5 — Prototype: permite clonar um modelo de documento para personalização rápida (cores, fontes, logotipo) sem reconstruir toda a estrutura.
-- Questão 6 — Strategy: implementa um sistema de combate RPG onde diferentes armas encapsulam algoritmos de ataque específicos, permitindo que personagens troquem estratégias de combate dinamicamente sem modificar sua estrutura base.
+- RPG — Strategy: implementa um sistema de combate RPG onde diferentes armas encapsulam algoritmos de ataque específicos, permitindo que personagens troquem estratégias de combate dinamicamente sem modificar sua estrutura base.
